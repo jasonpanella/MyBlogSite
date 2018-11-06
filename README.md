@@ -11,7 +11,7 @@ A full-featured yet simple blog engine built on ASP.NET Core 2.0.
 Username: *demo*  
 Password: *demo*
 
-![Editor](art/editor.png)
+![Editor](MyBlogSite/art/editor.png)
 
 ### Custom themes
 In search for custom designed themes for MiniBlog.Core? [Click here](https://francis.bio/miniblog-themes/).
