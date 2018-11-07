@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>Miniblog.Core1</RootNamespace>
+    <RootNamespace>Miniblog.Core</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
